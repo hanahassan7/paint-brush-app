@@ -44,7 +44,19 @@ The app focuses on clean OOP architecture, event-driven interactions, and custom
 
 **Prerequisites:** Java JDK 8 or higher installed
 
+```bash
+# Clone the repository
+git clone https://github.com/hanahassan7/paint-brush-app.git
 
+# Navigate to the project folder
+cd paint-brush-app
+
+# Compile the source files
+javac -d bin src/*.java
+
+# Run the application
+java -cp bin JavaProjectFinal
+```
 
 ## 👥 Team
 
@@ -55,4 +67,4 @@ Built as a group project during the ITI Java Development Course (Aug – Sep 202
 ## 📫 Contact
 
 **Hana Hassan Hamed**
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL) · [Email](mailto:hanahassan2006@gmail.com)
+[LinkedIn](https://linkedin.com/in/hana-hassan-hamed) · [Email](mailto:hanahassan2006@gmail.com)
